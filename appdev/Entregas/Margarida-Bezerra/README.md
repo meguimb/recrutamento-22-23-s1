@@ -1,16 +1,4 @@
-# albums_manager
+## Entregas
+Esta é a pasta de entregas e será nela onde submetes o teu projeto! Para entregar, basta só criares uma pasta com o formato `PrimeiroNome-Apelido` e dentro dela pode estar a pasta `<nome_do_projeto>/`. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ñão te esqueças que, antes de entregar, verificares se o teu programa corre sem problemas!
